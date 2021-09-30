@@ -1,0 +1,274 @@
+[2021-09-30T13:24:56+0200] info     : Monit daemon with PID 505 awakened
+[2021-09-30T13:28:04+0200] info     : Monit daemon with PID 505 awakened
+[2021-09-30T13:29:06+0200] info     : Monit daemon with PID 505 awakened
+[2021-09-30T13:29:17+0200] info     : Reinitializing monit daemon
+[2021-09-30T13:38:26+0200] info     : Monit daemon with PID 505 awakened
+[2021-09-30T13:38:32+0200] info     : Reinitializing monit daemon
+[2021-09-30T13:39:40+0200] info     : Monit daemon with PID 505 awakened
+[2021-09-30T13:42:41+0200] info     : Reinitializing monit daemon
+[2021-09-30T13:53:45+0200] info     : Reinitializing monit daemon
+[2021-09-30T13:58:33+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:00:04+0200] error    : Service 'view' not found
+[2021-09-30T14:02:25+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:09:32+0200] error    : Invalid argument -- realod  (-h will show valid arguments)
+[2021-09-30T14:09:36+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:09:40+0200] error    : Service 'mongo' not found
+[2021-09-30T14:14:40+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:16:43+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:21:36+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:21:56+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:23:56+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:24:02+0200] info     : 'mongo' start: '/usr/local/bin/brew services start mongodb-community@4.2'
+[2021-09-30T14:25:08+0200] error    : Monit: the monit daemon is not running
+[2021-09-30T14:27:25+0200] error    : Monit: the monit daemon is not running
+[2021-09-30T14:27:48+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:27:48+0200] info     : Monit daemon is not running
+[2021-09-30T14:28:02+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:28:02+0200] info     : Monit daemon is not running
+[2021-09-30T14:28:35+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:28:35+0200] info     : Monit daemon is not running
+[2021-09-30T14:28:40+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:28:47+0200] error    : You are not authorized to access monit. Either you supplied the wrong credentials (e.g. bad password), or your browser doesn't understand how to supply the credentials required
+[2021-09-30T14:29:20+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:30:48+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:33:06+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:33:07+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T14:33:07+0200] error    : 'mongo' process is not running
+[2021-09-30T14:33:07+0200] info     : 'mongo' trying to restart
+[2021-09-30T14:33:07+0200] info     : 'mongo' restart: '/usr/local/bin/brew services restart mongodb-community@4.2'
+[2021-09-30T14:33:29+0200] info     : 'mongo' process is running with pid 20323
+[2021-09-30T14:33:32+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:32+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:32+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:33+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:33+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:33+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:38+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:38+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:33:38+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:34:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:34:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:34:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:35:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:35:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:35:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:40:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:40:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:40:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:48:08+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:48:08+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T14:48:09+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T14:48:56+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:48:56+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T14:49:29+0200] error    : 'mongo' process is not running
+[2021-09-30T14:49:29+0200] info     : 'mongo' trying to restart
+[2021-09-30T14:49:29+0200] info     : 'mongo' restart: '/usr/local/bin/brew services restart mongodb-community@4.2'
+[2021-09-30T14:49:51+0200] info     : 'mongo' process is running with pid 20745
+[2021-09-30T14:50:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:50:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:50:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:52:42+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:52:42+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T14:52:43+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T14:59:01+0200] info     : Reinitializing monit daemon
+[2021-09-30T14:59:01+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T14:59:02+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T14:59:08+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T14:59:08+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:03:15+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:03:15+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:03:15+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:03:19+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:03:19+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:13:28+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:13:28+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:13:29+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:13:34+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:13:34+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:16:59+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:16:59+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:16:59+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:16:59+0200] error    : 'server' failed protocol test [HTTP] at [localhost]:3000/ [TCP/IP] -- Connection refused
+[2021-09-30T15:17:19+0200] error    : 'server' failed protocol test [HTTP] at [localhost]:3000/ [TCP/IP] -- Connection refused
+[2021-09-30T15:17:39+0200] error    : 'server' failed protocol test [HTTP] at [localhost]:3000/ [TCP/IP] -- Connection refused
+[2021-09-30T15:17:59+0200] info     : 'server' connection succeeded to [localhost]:3000/ [TCP/IP]
+[2021-09-30T15:19:20+0200] error    : 'server' failed protocol test [HTTP] at [localhost]:3000/ [TCP/IP] -- Connection refused
+[2021-09-30T15:19:40+0200] error    : 'server' failed protocol test [HTTP] at [localhost]:3000/ [TCP/IP] -- Connection refused
+[2021-09-30T15:20:00+0200] error    : 'server' failed protocol test [HTTP] at [localhost]:3000/ [TCP/IP] -- Connection refused
+[2021-09-30T15:20:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:20:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:20:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:20:13+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:20:13+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:20:13+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:27:46+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:27:46+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:27:46+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:28:00+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:28:00+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:28:49+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:28:49+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:28:49+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:28:53+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:28:53+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:29:49+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:29:49+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:29:50+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:29:53+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:29:53+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:33:32+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:33:32+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:33:32+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:33:35+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:33:35+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:37:49+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:37:49+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:37:50+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:37:59+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:37:59+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:40:34+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:40:34+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:40:35+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:40:39+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:40:39+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:41:27+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:41:27+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:41:28+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:41:30+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:41:30+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:42:29+0200] info     : Reinitializing monit daemon
+[2021-09-30T15:42:29+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T15:42:30+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T15:42:38+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:42:38+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T15:50:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:50:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T15:50:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T16:20:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T16:20:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T16:20:07+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T17:45:15+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:45:15+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:45:15+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:46:13+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:46:13+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:46:14+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:46:22+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T17:46:22+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T17:47:35+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:47:35+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:47:36+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:47:42+0200] error    : Monit: the monit HTTP interface is not enabled, please add the 'set httpd' statement and use the 'allow' option to allow monit to connect
+[2021-09-30T17:48:10+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:48:10+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:48:10+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:48:18+0200] error    : Denied connection from non-authorized client [::1]
+[2021-09-30T17:48:18+0200] error    : Error receiving data -- Connection reset by peer
+[2021-09-30T17:49:20+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:49:20+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:49:21+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:49:25+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T17:49:25+0200] info     : 'mongod' start on user request
+[2021-09-30T17:49:25+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T17:49:25+0200] info     : Awakened by User defined signal 1
+[2021-09-30T17:49:25+0200] info     : 'mongod' start action done
+[2021-09-30T17:49:25+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T17:51:08+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:51:08+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:51:09+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:51:09+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:51:13+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T17:51:13+0200] info     : 'mongod' start on user request
+[2021-09-30T17:51:13+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T17:51:13+0200] info     : Awakened by User defined signal 1
+[2021-09-30T17:51:13+0200] info     : 'mongod' start action done
+[2021-09-30T17:51:13+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T17:51:13+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:51:33+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:51:53+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:52:13+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:52:33+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:52:52+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:52:52+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:52:52+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:52:52+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:52:52+0200] error    : 'mongod' connection succeeded to /tmp/mongodb-27017.sock
+[2021-09-30T17:52:57+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T17:52:57+0200] info     : 'mongod' start on user request
+[2021-09-30T17:52:57+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T17:52:57+0200] info     : Awakened by User defined signal 1
+[2021-09-30T17:52:57+0200] info     : 'mongod' start action done
+[2021-09-30T17:52:57+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T17:52:57+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:52:57+0200] error    : 'mongod' connection succeeded to /tmp/mongodb-27017.sock
+[2021-09-30T17:53:27+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:53:27+0200] error    : 'mongod' connection succeeded to /tmp/mongodb-27017.sock
+[2021-09-30T17:53:57+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:53:57+0200] error    : 'mongod' connection succeeded to /tmp/mongodb-27017.sock
+[2021-09-30T17:54:27+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:54:27+0200] error    : 'mongod' connection succeeded to /tmp/mongodb-27017.sock
+[2021-09-30T17:54:41+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:54:41+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:54:42+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:54:45+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T17:54:45+0200] info     : 'mongod' start on user request
+[2021-09-30T17:54:45+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T17:54:45+0200] info     : Awakened by User defined signal 1
+[2021-09-30T17:54:45+0200] info     : 'mongod' start action done
+[2021-09-30T17:54:45+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T17:55:38+0200] info     : Reinitializing monit daemon
+[2021-09-30T17:55:38+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T17:55:39+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T17:55:39+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:55:45+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T17:55:45+0200] info     : 'mongod' start on user request
+[2021-09-30T17:55:45+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T17:55:45+0200] info     : Awakened by User defined signal 1
+[2021-09-30T17:55:45+0200] info     : 'mongod' start action done
+[2021-09-30T17:55:45+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T17:55:45+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:56:15+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:56:45+0200] error    : 'mongod' process is not running
+[2021-09-30T17:56:45+0200] info     : 'mongod' trying to restart
+[2021-09-30T17:56:45+0200] info     : 'mongod' restart: '/usr/local/bin/brew services restart mongodb-community@4.2'
+[2021-09-30T17:57:19+0200] info     : 'mongod' process is running with pid 25042
+[2021-09-30T17:57:19+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:57:49+0200] error    : 'mongod' process is not running
+[2021-09-30T17:57:49+0200] info     : 'mongod' trying to restart
+[2021-09-30T17:57:49+0200] info     : 'mongod' restart: '/usr/local/bin/brew services restart mongodb-community@4.2'
+[2021-09-30T17:58:22+0200] info     : 'mongod' process is running with pid 25430
+[2021-09-30T17:58:22+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:58:52+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T17:59:22+0200] error    : 'mongod' process is not running
+[2021-09-30T17:59:22+0200] info     : 'mongod' trying to restart
+[2021-09-30T17:59:22+0200] info     : 'mongod' restart: '/usr/local/bin/brew services restart mongodb-community@4.2'
+[2021-09-30T17:59:56+0200] info     : 'mongod' process is running with pid 25691
+[2021-09-30T17:59:56+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:00:26+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:00:56+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:01:26+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:01:56+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:02:26+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:02:56+0200] error    : 'mongod' connection succeeded to [localhost]:27017 [TCP/IP]
+[2021-09-30T18:03:04+0200] info     : Reinitializing monit daemon
+[2021-09-30T18:03:04+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T18:03:04+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T18:03:09+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T18:03:09+0200] info     : 'mongod' start on user request
+[2021-09-30T18:03:09+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T18:03:09+0200] info     : Awakened by User defined signal 1
+[2021-09-30T18:03:09+0200] info     : 'mongod' start action done
+[2021-09-30T18:03:09+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T18:04:10+0200] info     : Reinitializing monit daemon
+[2021-09-30T18:04:10+0200] info     : Reinitializing Monit -- control file '/usr/local/etc/monitrc'
+[2021-09-30T18:04:11+0200] info     : 'felipe-iMac.local' Monit reloaded
+[2021-09-30T18:04:14+0200] info     : 'felipe-iMac.local' start on user request
+[2021-09-30T18:04:14+0200] info     : 'mongod' start on user request
+[2021-09-30T18:04:14+0200] info     : Monit daemon with PID 19911 awakened
+[2021-09-30T18:04:14+0200] info     : Awakened by User defined signal 1
+[2021-09-30T18:04:14+0200] info     : 'mongod' start action done
+[2021-09-30T18:04:14+0200] info     : 'felipe-iMac.local' start action done
+[2021-09-30T18:05:14+0200] error    : 'mongod' process is not running
+[2021-09-30T18:05:14+0200] info     : 'mongod' trying to restart
+[2021-09-30T18:05:14+0200] info     : 'mongod' restart: '/usr/local/bin/brew services restart mongodb-community@4.2'
+[2021-09-30T18:05:47+0200] info     : 'mongod' process is running with pid 25842
