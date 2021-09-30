@@ -1,0 +1,7 @@
+check file produccion_log_old with path /Applications/MAMP/htdocs/produccion_DATA/_LOG/produccion.log
+  if size > 30 MB then alert
+  if size > 30 MB then exec '/Applications/MAMP/htdocs/produccion_SCRIPTS/delete_logs_old.sh'
+
+check file produccion_log with path /Users/mac/_CODE/NATUR_produccion/produccion_DATA/_LOG/produccion.log
+  if size > 30 MB then alert
+  if size > 30 MB then exec '/Applications/MAMP/htdocs/produccion_SCRIPTS/delete_logs.sh'
